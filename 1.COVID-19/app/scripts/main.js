@@ -103,7 +103,6 @@ ajax.onreadystatechange = function () {
                     }
                 }
             });
-            // viewer.dataSources.add(dataSource);
         })
    　}
  }
